@@ -1,9 +1,112 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "goods": [
+    {
+      "id": 1,
+      "productname": "Bongo",
+      "brand": "Blackstar",
+      "price": "48,000",
+      "rating": 0,
+      "featuredproduct": true,
+      "quantity": 20,
+      "image": "/test/bongo.jpg",
+      "description": "50 Hours of Personal Space: That's enough playtime to enjoy up to 1,000 songs or 25 movies. The earbuds have a 10-hour single charge playtime, and fast charging gives you 4 hours of listening from a quick 10-minute charge.",
+      "incarted": false
+    },
+    {
+      "id": 2,
+      "productname": "Drum Set",
+      "brand": "Yamaha",
+      "price": "88,000",
+      "rating": 0,
+      "featuredproduct": true,
+      "quantity": 16,
+      "image": "/test/drumset.jpg",
+      "description": "50 Hours of Personal Space: That's enough playtime to enjoy up to 1,000 songs or 25 movies. The earbuds have a 10-hour single charge playtime, and fast charging gives you 4 hours of listening from a quick 10-minute charge.",
+      "incarted": false
+    },
+    {
+      "id": 3,
+      "productname": "Drum Set - Unassembled",
+      "brand": "Taylor",
+      "price": "81,000",
+      "rating": 0,
+      "featuredproduct": false,
+      "quantity": 10,
+      "image": "/test/drumunset.jpg",
+      "description": "50 Hours of Personal Space: That's enough playtime to enjoy up to 1,000 songs or 25 movies. The earbuds have a 10-hour single charge playtime, and fast charging gives you 4 hours of listening from a quick 10-minute charge.",
+      "incarted": false
+    },
+    {
+      "id": 4,
+      "productname": "Microphone",
+      "brand": "Steinway",
+      "price": "28,000",
+      "rating": 0,
+      "featuredproduct": true,
+      "quantity": 13,
+      "image": "/test/microphone.jpg",
+      "description": "50 Hours of Personal Space: That's enough playtime to enjoy up to 1,000 songs or 25 movies. The earbuds have a 10-hour single charge playtime, and fast charging gives you 4 hours of listening from a quick 10-minute charge.",
+      "incarted": false
+    },
+    {
+      "id": 5,
+      "productname": "Mixer",
+      "brand": "Shure",
+      "price": "288,000",
+      "rating": 0,
+      "featuredproduct": true,
+      "quantity": 6,
+      "image": "/test/mixer.jpg",
+      "description": "50 Hours of Personal Space: That's enough playtime to enjoy up to 1,000 songs or 25 movies. The earbuds have a 10-hour single charge playtime, and fast charging gives you 4 hours of listening from a quick 10-minute charge.",
+      "incarted": false
+    },
+    {
+      "id": 6,
+      "productname": "Piano",
+      "brand": "Seagull",
+      "price": "167,000",
+      "rating": 0,
+      "featuredproduct": true,
+      "quantity": 11,
+      "image": "/test/piano.jpg",
+      "description": "50 Hours of Personal Space: That's enough playtime to enjoy up to 1,000 songs or 25 movies. The earbuds have a 10-hour single charge playtime, and fast charging gives you 4 hours of listening from a quick 10-minute charge.",
+      "incarted": false
+    },
+    {
+      "id": 7,
+      "productname": "Speaker",
+      "brand": "Roland",
+      "price": "102,000",
+      "rating": 0,
+      "featuredproduct": true,
+      "quantity": 19,
+      "image": "/test/speaker.jpg",
+      "description": "50 Hours of Personal Space: That's enough playtime to enjoy up to 1,000 songs or 25 movies. The earbuds have a 10-hour single charge playtime, and fast charging gives you 4 hours of listening from a quick 10-minute charge.",
+      "incarted": false
+    },
+    {
+      "id": 8,
+      "productname": "Trumpet",
+      "brand": "Martin",
+      "price": "145,000",
+      "rating": 0,
+      "featuredproduct": true,
+      "quantity": 9,
+      "image": "/test/trumpet.jpg",
+      "description": "50 Hours of Personal Space: That's enough playtime to enjoy up to 1,000 songs or 25 movies. The earbuds have a 10-hour single charge playtime, and fast charging gives you 4 hours of listening from a quick 10-minute charge.",
+      "incarted": false
+    },
+    {
+      "id": 9,
+      "productname": "Violin",
+      "brand": "Fender",
+      "price": "97,000",
+      "rating": 0,
+      "featuredproduct": true,
+      "quantity": 18,
+      "image": "/test/violin.jpg",
+      "description": "50 Hours of Personal Space: That's enough playtime to enjoy up to 1,000 songs or 25 movies. The earbuds have a 10-hour single charge playtime, and fast charging gives you 4 hours of listening from a quick 10-minute charge.",
+      "incarted": false
+    }
+  ]
 }
